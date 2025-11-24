@@ -39,7 +39,7 @@ você tentou sacar: ${saque} Reais.
     console.log(`seu saldo atualizado é: ${this.#saldo} Reais.\n`)
   }
 }
-/*
+
 /*testes abaixo até a última linha de codigo*/
 const conta = new Conta();
 
